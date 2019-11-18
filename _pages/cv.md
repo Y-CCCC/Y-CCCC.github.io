@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Bioengineering, Beijing University of Chemical Technology, 2014-2018
-* M.S. Data Science, University of Pennsylvania, 2018-2020 (expected)
+* M.S. in Data Science, University of Pennsylvania, 2018-2020 (expected)
 
 Research experience
 ======
