@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student in University of Pennsylvania, majoring in Data Science.  I am also a member of [Long Research Group](https://www.med.upenn.edu/long-lab/) at Perelman School of Medicine, advised by [Prof. Qi Long](https://www.dbei.med.upenn.edu/bio/qi-long-phd).
-
-My research interests include clinical decision making, knowledge representation, social media mining, health monitoring in healthcare data.
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 A data-driven personal website
 ======
