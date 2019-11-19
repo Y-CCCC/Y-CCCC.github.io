@@ -10,6 +10,10 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  background: #fff;
+  box-shadow: 0 5px 10px 0 rgba(0,64,128,.05);
+  -moz-box-shadow:    0 5px 10px 0 rgba(0,64,128,.05);
+  -webkit-box-shadow: 0 5px 10px 0 rgba(0,64,128,.05);
 
   &__inner-wrap {
     @include container;
