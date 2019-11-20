@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * B.S. in Bioengineering, Beijing University of Chemical Technology, 2014-2018
@@ -16,7 +14,7 @@ Education
 
 Research experience
 ======
-* Summer 2015: Research Assistant
+* Early diseases detection based on electronic health records (EHRs) (08/2019 - Present)
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
