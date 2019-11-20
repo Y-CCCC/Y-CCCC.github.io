@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yucheng Ruan"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=VODYGAkAAAAJ&view_op=list_works"
+  googlescholar    : 
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
