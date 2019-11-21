@@ -16,5 +16,5 @@ Recent News
 ======
 ## Nov 6, 2019
 
-Out paper [Machine Learning and Natural Language Processing for Geolocation-Centric Monitoring and Characterization of Opioid-Related Social Media Chatter](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983) has been published on [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen). Besides, some reporters are writing an [article](https://www.popsci.com/story/health/opioids-social-media-predict/) about it.
+Our paper [Machine Learning and Natural Language Processing for Geolocation-Centric Monitoring and Characterization of Opioid-Related Social Media Chatter](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983) has been published on [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen). Besides, some reporters are writing an [article](https://www.popsci.com/story/health/opioids-social-media-predict/) about it.
 
