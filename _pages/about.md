@@ -22,7 +22,7 @@ Our paper [Machine Learning and Natural Language Processing for Geolocation-Cent
 
 ## Aug 1, 2019
 
-I joined the [Long Research Group](https://www.med.upenn.edu/long-lab/) at Perelman School of Medicine of University of Pennsylvania, working with [Prof. Qi Long](https://www.dbei.med.upenn.edu/bio/qi-long-phd).
+I joined the [Long Research Group](https://www.med.upenn.edu/long-lab/) at Perelman School of Medicine of University of Pennsylvania, working with [Prof. Qi Long](https://www.dbei.med.upenn.edu/bio/qi-long-phd). Our focus is to build predictive models for early detection of diseases from electronic health records (EHRs).
 
 
 
