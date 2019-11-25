@@ -18,3 +18,14 @@ Recent News
 
 Our paper [Machine Learning and Natural Language Processing for Geolocation-Centric Monitoring and Characterization of Opioid-Related Social Media Chatter](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983) has been published on [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen). Besides, some reporters are writing an [article](https://www.popsci.com/story/health/opioids-social-media-predict/) about it.
 
+
+
+## Aug 1, 2019
+
+I joined the [Long Research Group](https://www.med.upenn.edu/long-lab/) at Perelman School of Medicine of University of Pennsylvania, working with [Prof. Qi Long](https://www.dbei.med.upenn.edu/bio/qi-long-phd).
+
+
+
+## Feb 4, 2019
+
+I joined the [Health Language Processing Lab](https://healthlanguageprocessing.org/) at University of Pennsylvania and worked with [Prof. Abeed Sarker](https://abeedsarker.com/) to conduct research on social media mining.
