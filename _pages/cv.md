@@ -21,43 +21,37 @@ Research experience
 
 * Evaluation of interpretability via Model Extraction                                                                07/2019 - 08/2019
   * Revised a more interpretable model to approximate the blackbox models (e.g. random forests)
-  * Performed the comparison analyses between the extracted model and base model
+  * Investigated the performance factors between the extracted model and base model
 - Auto-Classification of Opioid-Related Tweets and Geolocation Monitoring                      02/2019 - 07/2019
   - Proposed a simple penalty-enhanced convolutional neural network model to deal with data imbalance
   - Performed geospatial correlation analyses between abuse data and the metrics from National Surveys on Drug Use and Health (NSDUH)
   - Generated geographic heatmaps, comparing different data granularity, to better visualize correlations
 - Quantitative Structure-Activity Relationships (QSAR) of HIV-1 Protease Inhibitors          07/2017 - 05/2018
   - Designed  a  set  of  web  crawlers  to  collect  the  SMILES  data  (chemical  structures)  of  the  inhibitors automatically
-  - Took advantage of clustering techniques such as K-means, Self-organizing Maps for data splitting given limited sample size and obtained better-generalized models
+  - Took advantage of clustering techniques such as Self-organizing Maps for data splitting given limited sample size and obtained better-generalized models
   - Performed feature evaluation with further structure-based similarity analyses to identify the most contributing features to describe similar molecular properties
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Interaction between Poly (ADP-ribose) Polymerase and Its Inhibitor                                 09/2016 - 06/2017
+  - Built Python workflow API’s, integrating database management, performance monitoring, and some customized modeling algorithms
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+- Sarker A, Gonzalez-Hernandez G, Ruan Y, Perrone J. Machine learning and natural language processing for geolocation-centric monitoring and characterization of opioid-related Twitter chatter. *JAMA Network Open*.  2019; 2(11)
+- Qu Y, Yan H, Guo Q, Li J, Ruan Y, Yue X, Zheng W, Tan T, Fan L. Biosynthesis of D-glucaric acid from sucrose with routed carbon distribution in metabolically engineered Escherichia coli. *Metabolic Engineering*.  2018; 47:393-400.
 
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Programming Languages: Python, Java, Visual Basic, C/C++, HTML, JavaScript, SQL
+* Platforms: MySQL, MongoDB, Neo4j, MEAN Stack, GitHub, Qt, Linux
+* Tool:  Matlab, $\LaTeX$, SPSS
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of Penn Data Science Group
+* Analyst of Penn Biotechnology Group for Healthcare Consulting
+* Programming Language Mentor, Summer Leadership Program organized by Global Youth Mentorship Initiative
+* Lecturer, Mathematical Modeling Association at BUCT
+* Head of Student Research Department, School of Life Science and Technology, BUCT
+* Co-founder of MOOC Platform of BUCT
+
