@@ -36,7 +36,7 @@ Research experience
 Publications
 ======
 
-- Sarker A, Gonzalez-Hernandez G, Ruan Y, Perrone J. Machine learning and natural language processing for geolocation-centric monitoring and characterization of opioid-related Twitter chatter. *JAMA Network Open*.  2019; 2(11)
+- Sarker A, Gonzalez-Hernandez G, Ruan Y, Perrone J. Machine learning and natural language processing for geolocation-centric monitoring and characterization of opioid-related Twitter chatter. *JAMA Network Open*.  2019; 2(11).
 - Qu Y, Yan H, Guo Q, Li J, Ruan Y, Yue X, Zheng W, Tan T, Fan L. Biosynthesis of D-glucaric acid from sucrose with routed carbon distribution in metabolically engineered Escherichia coli. *Metabolic Engineering*.  2018; 47:393-400.
 
 Skills
