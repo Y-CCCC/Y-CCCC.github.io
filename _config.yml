@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yucheng Ruan"
 description              : &description "personal description"
