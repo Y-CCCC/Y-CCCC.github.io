@@ -30,6 +30,9 @@ Research experience
   - Designed a set of web crawlers to collect the Simplified Molecular Input Line Entry System (SMILES) data of the inhibitors automatically
   - Took advantage of clustering techniques such as self-organizing maps for data splitting given limited sample size and obtained better-generalized models
   - Performed feature evaluation with further structure-based similarity analyses to identify the most contributing features to describe similar molecular properties
+- Interaction between Poly (ADP-ribose) Polymerase and Its Inhibitor                                 09/2016 - 06/2017
+  - Implemented Python API’s, integrating private database management, performance monitoring, and some customized modeling algorithms
+  - Optimized machine learning regression models and utilized structure-based virtual screening to perform model evaluation
 
 Publications
 ======
