@@ -14,6 +14,13 @@ My research interests include natural language processing, machine learning, soc
 
 Recent News
 ======
+
+## May 15, 2020
+
+I won the *Outstanding Research Award* in the School of Engineering and Applied Science (SEAS).
+
+
+
 ## Nov 6, 2019
 
 Our paper [Machine Learning and Natural Language Processing for Geolocation-Centric Monitoring and Characterization of Opioid-Related Social Media Chatter](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983) has been published on [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen). Besides, some reporters are writing an [article](https://www.popsci.com/story/health/opioids-social-media-predict/) about it.
