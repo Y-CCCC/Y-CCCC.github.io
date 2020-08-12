@@ -10,11 +10,11 @@ redirect_from:
 Education
 ======
 * B.S. in Bioengineering, Beijing University of Chemical Technology, 2014-2018
-* M.S. in Data Science, University of Pennsylvania, 2018-2020 (expected)
+* M.S. in Data Science, University of Pennsylvania, 2018-2020
 
 Research experience
 ======
-* Early diseases detection based on electronic health records (EHRs) 								 08/2019 - Present
+* Early diseases detection based on electronic health records (EHRs) 								 08/2019 - 08/2020
   * Improved  contextual  embedding  techniques  to  represent  different  medical  events on temporal sequence construction
   * Leveraged the patient-diagnosis projection similarity (PDPS) model to evaluate the similarity between the patients’ EHRs and the known diagnoses
   * Developed supervised learning models for early detection in patients with multi-diagnoses using transformed patient vectors
@@ -49,7 +49,6 @@ Skills
 
 Service and leadership
 ======
-* Member of Penn Data Science Group
 * Analyst of Penn Biotechnology Group for Healthcare Consulting
 * Programming Language Mentor, Summer Leadership Program organized by Global Youth Mentorship Initiative
 * Lecturer, Mathematical Modeling Association at BUCT
