@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
-# Publications
+------
 
 **Text Classification Models for the Automatic Detection of Nonmedical Prescription Medication Usefrom Social Media**
 
@@ -17,7 +15,7 @@ Preprint
 
 [[Link]](https://www.medrxiv.org/content/10.1101/2020.04.13.20064089v1) 
 
-
+------
 
 **Machine learning and natural language process-ing for geolocation-centric monitoring and characterization of opioid-related Twitter chatter**
 
@@ -27,7 +25,7 @@ JAMA Network Open. 2019; 2(11)
 
 [[Link]](https://doi.org/10.1001/jamanetworkopen.2019.14672) [[Code]](https://bitbucket.org/yuchengr/jama_open_opioid_pa)
 
-
+------
 
 **Biosynthesis of D-glucaric acid from sucrose with routed carbon distribution in metabolically engineered Escherichia coli. **
 
