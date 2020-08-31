@@ -17,7 +17,7 @@ My research interests include natural language processing, machine learning, soc
 Recent News
 ======
 
-## May 15, 2020
+### May 15, 2020
 
 I won the *Outstanding Research Award* in the School of Engineering and Applied Science (SEAS).
 
@@ -38,3 +38,4 @@ I joined the [Long Research Group](https://www.med.upenn.edu/long-lab/) at Perel
 ## Feb 4, 2019
 
 I joined the [Health Language Processing Lab](https://healthlanguageprocessing.org/) at University of Pennsylvania and worked with [Prof. Abeed Sarker](https://abeedsarker.com/) to conduct research on social media mining.
+
