@@ -2,7 +2,7 @@
 main:
 
   - title: "Publications"
-    url: "https://scholar.google.com/citations?user=VODYGAkAAAAJ&hl=en"
+    url: "/publications/"
   
   - title: "CV"
     url: /cv/

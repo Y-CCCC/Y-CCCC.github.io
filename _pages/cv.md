@@ -7,8 +7,11 @@ redirect_from:
   - /resume
 ---
 
+
+
 Education
 ======
+
 * B.S. in Bioengineering, Beijing University of Chemical Technology, 2014-2018
 * M.S. in Data Science, University of Pennsylvania, 2018-2020
 
