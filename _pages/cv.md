@@ -19,7 +19,7 @@ Education
 
 Research experience
 ======
-* Early diseases detection based on electronic health records (EHRs) 								 08/2019 - 08/2020
+* Early diseases detection based on electronic health records (EHRs) 								 08/2019 - Present
   * Improved  contextual  embedding  techniques  to  represent  different  medical  events on temporal sequence construction
   * Leveraged the patient-diagnosis projection similarity (PDPS) model to evaluate the similarity between the patients’ EHRs and the known diagnoses
   * Developed supervised learning models for early detection in patients with multi-diagnoses using transformed patient vectors
