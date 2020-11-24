@@ -10,7 +10,7 @@ redirect_from:
 
 I was a master student at the University of Pennsylvania, majoring in Data Science.  I am also a member of [Long Research Group](https://www.med.upenn.edu/long-lab/) at Perelman School of Medicine, advised by [Prof. Qi Long](https://www.dbei.med.upenn.edu/bio/qi-long-phd).
 
-My research interests include but are not limited to natural language processing, machine learning, social media mining, and clinical decision making in healthcare data.
+My research interests include but are not limited to natural language processing, machine learning, social media mining, and clinical decision making in healthcare.
 
 ------
 
