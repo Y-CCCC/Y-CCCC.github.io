@@ -44,7 +44,7 @@ Research experience
 Professional Skills
 ======
 
-* Programming Languages: Python, Java, Visual Basic, C/C++, HTML, JavaScript, SQL
+* Programming Languages: Python, Java, Visual Basic, HTML, JavaScript, SQL
 * Platforms: MySQL, MongoDB, Neo4j, MEAN Stack, GitHub, Qt, Linux
 * Tool:  Matlab, $\LaTeX$, SPSS
 
